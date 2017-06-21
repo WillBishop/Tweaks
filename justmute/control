@@ -1,0 +1,9 @@
+Package: com.willbishop.justmute
+Name: JustMute
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes those ugly grey folder backgrounds, let them float!
+Maintainer: Will Bishop
+Author: Will Bishop
+Section: Tweaks
